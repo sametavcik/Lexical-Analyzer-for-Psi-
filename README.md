@@ -1,7 +1,7 @@
 # Lexical-Analyzer-for-Psi-
 
 ## Bu proje,Psi++ programlama dili için [Lexical Analyzer](https://www.guru99.com/compiler-design-lexical-analysis.html) yapmayı amaçlamaktadır.
-
+### Program girdileri "code.psi" adlı dosyadan alıp çıkan tokenları "code.lex" adlı dosyaya yazmaktadır.
 ### Her bir Tokenin kuralları aşağıdaki dokümanda verilmiştir.
 
 ![Adsız](https://user-images.githubusercontent.com/65908597/193408622-f860efd2-c544-4e6a-914c-dec055022881.png)
